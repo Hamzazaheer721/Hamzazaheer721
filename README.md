@@ -30,6 +30,16 @@ I care about interfaces that are fast, accessible and well tested.
 | [⚙️ Webworkers-React-Typescript](https://github.com/Hamzazaheer721/Webworkers-React-Typescript) | Web workers with React and TypeScript |
 | [🏢 BizLaunch](https://github.com/Hamzazaheer721/BizLaunch) | Company formation web app |
 
+## 📊 GitHub stats
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamzazaheer721&show_icons=true&hide_border=true&theme=default&count_private=true&count_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzazaheer721&layout=compact&hide_border=true&exclude_repo=Computer_Vision,Deep-Learning,Interview-Me-V2.0,InterviewMe-v3.0,InterviewMe-v4.0,Interview-Me-v5.0" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzazaheer721&hide_border=true" />
+
+</div>
+
 ## 🐍 Contribution snake
 <div align="center">
 
