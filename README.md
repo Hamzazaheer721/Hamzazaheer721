@@ -24,12 +24,6 @@ I care about interfaces that are fast, accessible and well tested.
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,python,flask,mongodb,docker,git,github&perline=12" />
 </p>
 
-## ⭐ Featured projects
-| Project | What it is |
-|---|---|
-| [⚙️ Webworkers-React-Typescript](https://github.com/Hamzazaheer721/Webworkers-React-Typescript) | Web workers with React and TypeScript |
-| [🏢 BizLaunch](https://github.com/Hamzazaheer721/BizLaunch) | Company formation web app |
-
 ## 📊 GitHub stats
 <div align="center">
 
