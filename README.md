@@ -33,8 +33,7 @@ I care about interfaces that are fast, accessible and well tested.
 ## 📊 GitHub stats
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamzazaheer721&show_icons=true&hide_border=true&theme=default&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzazaheer721&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamzazaheer721&show_icons=true&hide_border=true&theme=default&count_private=true&count_all_commits=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzazaheer721&hide_border=true" />
 
